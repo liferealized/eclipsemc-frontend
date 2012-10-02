@@ -10,9 +10,9 @@
 		<script type="text/ecmascript" src="js/bootstrap.min.js"></script>
 	</head>
 	
-	<body>
+	<body class="home">
 		
-		<div class="container-fluid">
+		<div class="container">
 		
 			<!-- top informational bar -->
 			<div class="navbar navbar-inverse navbar-fixed-top" id="info-bar">
@@ -21,7 +21,7 @@
 					
 					<!-- server stats are always shown -->
 					<div class="stats server-stats">
-						<h5>Server Stats</h5>
+						<h5>Server Stats <span><a href="#">see server load</a></span></h5>
 						<table>
 							<tbody>
 								<tr>
@@ -69,35 +69,87 @@
 				<div class="navbar-inner">
 					<ul class="nav">
 						<li class="active"><a href="index.html">Home</a></li>
-						<li><a href="account.html">Account</a></li>
-						<li><a href="stats.html">Pool Stats</a></li>
-						<li><a href="stats.html">Hall of Fame</a></li>
-						<li><a href="stats.html">Forum</a></li>
+						<li><a href="#">Account</a></li>
+						<li><a href="#">Statistics</a></li>
+						<li><a href="#">Top Miners</a></li>
+						<li><a href="#">Forum</a></li>
+						<li><a href="#">API</a></li>
 						<li><a href="#">Logout</a></li>
 					</ul>
 				</div>
 			</div>
 			
-			<div class="row-fluid">
+			<div class="row">
+				<div class="span12">
+					<h1>Welcome to the Eclipse Mining Consortium</h1>
+					<p>
+						We are a collective Bitcoin mining pool designed to provide the maximum return on your mining investment. 
+						We strive to offer the most reliable mining pool available. We also offer the best features of every other 
+						mining site out there in order to provide you with a complete solution to your pooled mining equipment.
+					</p>
+				</div>
+			</div>
 			
-				<div class="span3">
-					<!-- secondary navigation bar -->
+			
+			<div class="row">
+					
+				<div class="span4">
 					<div class="well">
-						<ul class="nav nav-list">
-							<li class="nav-header">Pool Stats</li>
-							<li><a href="#">Nav Item 1</a></li>
-						</ul>
+						<h4>Double Geometric Scoring</h4>
+						<p>An explanation about the DGM system and how it is cheat proof with no fee.</p>
+					</div>
+				</div>
+				
+				<div class="span4">
+					<div class="well">
+						<h4>Pay Per Share</h4>
+						<p>An explanation about the PPS system and how it is cheat proof with a percentage fee. The fee is built into the PPS and is currently <strong>0.000016584381901118001298228374</strong> per share.</p>
 					</div>
 				</div>
 			
-				<div class="span9">
-				
+				<div class="span4">
+					<!-- secondary navigation bar -->
+					<div class="well">
+						
+						<form action="#" method="post" class="form-horizontal" id="login-form">
+							<h4>Login <span>or <a href="#">register for an account</a></span></h4>
+
+							<div class="control-group">
+									<input type="text" id="username" name="username" placeholder="User Name" />
+							</div>
+							<div class="control-group">
+									<input type="password" id="password" name="username" placeholder="Password" />
+							</div>
+							<div class="control-group">
+									<input type="text" id="otp" name="otp" placeholder="Yubikey / OTP" />
+							</div>
+							<div class="control-group last">
+								<button type="submit" class="btn">Sign In</button>  or <a href="#">i forgot my password!</a>
+							</div>
+						</form>
+					</div>
 				</div>
 			
 			</div>
-			
-		
 		</div>
 		
+		<div id="footer">
+			<div class="container">
+	
+				
+				<div class="row">
+					<div class="span6">
+						<p>&copy; Eclipse Mining Consotium. All Rights Reserved.</p>
+					</div>
+					<div class="span6 text-right">
+						<p>
+							<a href="#">Terms of Use</a> |
+							<a href="#">Privacy Statement</a> |
+							<a href="#">FAQ / Help</a>
+						</p>
+					</div>
+				</div>		
+			</div>
+		</div>
 	</body>
 </html>

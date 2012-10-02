@@ -1,9 +1,17 @@
 /*******************************************
 	GLOBAL
 *********/
+html {
+	background: whiteSmoke;
+}
+
 body {
 	background: #fff;
-}
+	}
+	
+	body > .container {
+		padding-top: 141px;
+	}
 
 
 /*******************************************
@@ -68,7 +76,7 @@ body {
 			}
 			
 			#info-bar .stats h5 span {
-				font-size: 12px;
+				font-size: 11px;
 				font-weight: normal;
 			}
 		
@@ -94,9 +102,7 @@ body {
 /*******************************************
 	NAVIGATION
 *********/
-#navigation {
-	margin-top: 141px;
-	}
+#navigation {}
 	
 	#navigation .navbar-inner {
 		background: -webkit-linear-gradient(top, #BF0000, #AA0000);

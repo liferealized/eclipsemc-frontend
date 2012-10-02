@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- #include file="includes/_head.html" -->
+	
+	<body class="home">
+		
+		<div class="container">
+		
+			<!-- top informational bar -->
+			<!-- #include file="includes/_header.html" -->
+			
+			<!-- main navigation bar -->
+			<!-- #include file="includes/_navigation.html" -->
+			
+			<div class="row">
+				<div class="span12">
+					<h1>Welcome to the Eclipse Mining Consortium</h1>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="span6">
+					<p>
+						We are a collective Bitcoin mining pool designed to provide the maximum return on your mining investment. 
+						We strive to offer the most reliable mining pool available. We also offer the best features of every other 
+						mining site out there in order to provide you with a complete solution to your pooled mining equipment.
+					</p>
+				</div>
+				<div class="span6">
+					<div class="well" style="height:140px; background: whiteSmoke url(img/asic-ready.png) no-repeat 0 20px;">
+						<h4>We are ASIC mining ready!</h4>
+						<p>
+							Eclipse is ready for the ASIC<br />
+							mining revolution. With bitcoin's<br />
+							new getBlockTemplate (GBT) call<br />
+							and the BFGminer, you can mine with<br />
+							an unlimited amount of mining power today!
+						</p>
+					</div>
+				</div>
+			</div>
+			
+			
+			<div class="row">
+			
+				<div class="span4">
+					<!-- secondary navigation bar -->
+					<div class="well">
+						
+						<form action="#" method="post" class="form-horizontal" id="login-form">
+							<h4>Login <span>or <a href="#">register for an account</a></span></h4>
+
+							<div class="control-group">
+									<input type="text" id="username" name="username" placeholder="User Name" />
+							</div>
+							<div class="control-group">
+									<input type="password" id="password" name="username" placeholder="Password" />
+							</div>
+							<div class="control-group">
+									<input type="text" id="otp" name="otp" placeholder="Yubikey / OTP" />
+							</div>
+							<div class="control-group last">
+								<button type="submit" class="btn">Sign In</button>  or <a href="#">i forgot my password!</a>
+							</div>
+						</form>
+					</div>
+				</div>
+				
+				<div class="span4">
+					<div class="well">
+						<h4>Pay Per Share</h4>
+						<p>An explanation about the PPS system and how it is cheat proof with a percentage fee. The fee is built into the PPS and is currently <strong>0.000016584381901118001298228374</strong> per share.</p>
+					</div>
+				</div>
+					
+				<div class="span4">
+					<div class="well">
+						<h4>Double Geometric Scoring</h4>
+						<p>An explanation about the DGM system and how it is cheat proof with no fee.</p>
+					</div>
+				</div>
+			
+			</div>
+		</div>
+		
+		<!-- footer -->
+		<!-- #include file="includes/_footer.html" -->
+		
+		
+	</body>
+</html>

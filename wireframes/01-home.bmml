@@ -17,7 +17,7 @@
       </controlProperties>
     </control>
     <control controlID="94" controlTypeID="com.balsamiq.mockups::Canvas" x="709" y="280" w="281" h="260" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
-    <control controlID="95" controlTypeID="com.balsamiq.mockups::CallOut" x="266" y="99" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::CallOut" x="266" y="99" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>

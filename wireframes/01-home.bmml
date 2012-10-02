@@ -1,0 +1,286 @@
+<mockup version="1.0" skin="sketch" measuredW="1313" measuredH="935" mockupW="1284" mockupH="910">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="19" y="15" w="999" h="910" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%0Ahttp%3A//eclipsemc.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MenuBar" x="44" y="225" w="946" h="29" measuredW="493" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20Account%2C%20Statistics%2C%20Top%20Miners%2C%20Forum%2C%20API%2C%20Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="1031" y="19" w="272" h="903" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Paragraph" x="1046" y="33" w="241" h="874" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%20If%20the%20user%20is%20logged%20in%2C%20this%20extra%20stats%20display%20shows%20in%20the%20header.%20Also%20always%20shows%20the%20user%20their%20current%20hash%20rate%20and%20their%20diff1%20shares%20for%20the%20current%20round.%0A%20%0A2.%20The%20server%20stats%20are%20always%20available%0A%20%0A3.%20Full%20callout%20for%20logging%20into%20the%20site%20with%20a%20quick%20link%20to%20register%20and%20a%20link%20for%20when%20they%20forget%20their%20password.</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Canvas" x="709" y="280" w="281" h="260" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::CallOut" x="266" y="99" w="-1" h="-1" measuredW="38" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::SubTitle" x="718" y="288" w="-1" h="-1" measuredW="62" measuredH="40" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::TextInput" x="804" y="338" w="168" h="-1" measuredW="79" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="716" y="341" w="-1" h="-1" measuredW="77" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>User%20name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="716" y="381" w="-1" h="-1" measuredW="67" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Label" x="716" y="421" w="-1" h="-1" measuredW="83" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Yubi%20/%20OTP%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::TextInput" x="804" y="378" w="168" h="-1" measuredW="79" measuredH="29" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::TextInput" x="804" y="418" w="168" h="-1" measuredW="79" measuredH="29" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="__group__" x="23" y="100" w="-1" h="-1" measuredW="989" measuredH="109" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="104" w="989" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="103"/>
+        <control controlID="46" controlTypeID="com.balsamiq.mockups::SubTitle" x="21" y="29" w="130" h="-1" measuredW="130" measuredH="40" zOrder="1" locked="false" isInGroup="103">
+          <controlProperties>
+            <text>Eclipse%20MC</text>
+          </controlProperties>
+        </control>
+        <control controlID="88" controlTypeID="__group__" x="624" y="0" w="343" h="95" measuredW="343" measuredH="95" zOrder="2" locked="false" isInGroup="103">
+          <groupChildrenDescriptors>
+            <control controlID="59" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="343" h="95" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="88">
+              <controlProperties>
+                <text>Server%20Stats</text>
+              </controlProperties>
+            </control>
+            <control controlID="69" controlTypeID="__group__" x="13" y="20" w="138" h="25" measuredW="138" measuredH="25" zOrder="1" locked="false" isInGroup="88">
+              <groupChildrenDescriptors>
+                <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="73" h="25" measuredW="73" measuredH="25" zOrder="0" locked="false" isInGroup="69">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Pool%20Speed%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="73" y="0" w="65" h="25" measuredW="65" measuredH="25" zOrder="1" locked="false" isInGroup="69">
+                  <controlProperties>
+                    <bold>true</bold>
+                    <text>1.85Th/s</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="70" controlTypeID="__group__" x="13" y="53" w="136" h="25" measuredW="136" measuredH="25" zOrder="2" locked="false" isInGroup="88">
+              <groupChildrenDescriptors>
+                <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="94" h="25" measuredW="94" measuredH="25" zOrder="0" locked="false" isInGroup="70">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Active%20Miners%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="93" y="0" w="43" h="25" measuredW="43" measuredH="25" zOrder="1" locked="false" isInGroup="70">
+                  <controlProperties>
+                    <text>1%2C612</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="72" controlTypeID="__group__" x="161" y="21" w="169" h="25" measuredW="169" measuredH="25" zOrder="3" locked="false" isInGroup="88">
+              <groupChildrenDescriptors>
+                <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="101" h="25" measuredW="101" measuredH="25" zOrder="0" locked="false" isInGroup="72">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Round%20Duration%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="102" y="0" w="67" h="25" measuredW="67" measuredH="25" zOrder="1" locked="false" isInGroup="72">
+                  <controlProperties>
+                    <text>1hr%2038min</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="74" controlTypeID="__group__" x="161" y="51" w="162" h="25" measuredW="162" measuredH="25" zOrder="4" locked="false" isInGroup="88">
+              <groupChildrenDescriptors>
+                <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="91" h="25" measuredW="91" measuredH="25" zOrder="0" locked="false" isInGroup="74">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Round%20Shares%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="89" y="0" w="73" h="25" measuredW="73" measuredH="25" zOrder="1" locked="false" isInGroup="74">
+                  <controlProperties>
+                    <text>1%2C234%2C567</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="93" controlTypeID="__group__" x="255" y="0" w="352" h="95" measuredW="352" measuredH="95" zOrder="3" locked="false" isInGroup="103">
+          <groupChildrenDescriptors>
+            <control controlID="75" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="352" h="95" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="93">
+              <controlProperties>
+                <text>Welcome%20back%20gigavps%21</text>
+              </controlProperties>
+            </control>
+            <control controlID="89" controlTypeID="__group__" x="8" y="53" w="165" h="25" measuredW="165" measuredH="25" zOrder="1" locked="false" isInGroup="93">
+              <groupChildrenDescriptors>
+                <control controlID="82" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="94" h="25" measuredW="93" measuredH="25" zOrder="0" locked="false" isInGroup="89">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>24hr%20Earnings%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="89" y="0" w="76" h="25" measuredW="75" measuredH="25" zOrder="1" locked="false" isInGroup="89">
+                  <controlProperties>
+                    <text>12.45%20BTC</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="90" controlTypeID="__group__" x="8" y="20" w="148" h="25" measuredW="148" measuredH="25" zOrder="2" locked="false" isInGroup="93">
+              <groupChildrenDescriptors>
+                <control controlID="80" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="80" h="25" measuredW="77" measuredH="25" zOrder="0" locked="false" isInGroup="90">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Est%20Reward%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="73" y="0" w="75" h="25" measuredW="68" measuredH="25" zOrder="1" locked="false" isInGroup="90">
+                  <controlProperties>
+                    <bold>true</bold>
+                    <text>1.12%20BTC</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="91" controlTypeID="__group__" x="176" y="21" w="153" h="25" measuredW="153" measuredH="25" zOrder="3" locked="false" isInGroup="93">
+              <groupChildrenDescriptors>
+                <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="101" h="25" measuredW="128" measuredH="25" zOrder="0" locked="false" isInGroup="91">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Round%20Shares%3A%201%2C322</text>
+                  </controlProperties>
+                </control>
+                <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="86" y="0" w="67" h="25" measuredW="67" measuredH="25" zOrder="1" locked="false" isInGroup="91">
+                  <controlProperties>
+                    <text>1hr%2038min</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="92" controlTypeID="__group__" x="176" y="51" w="158" h="25" measuredW="158" measuredH="25" zOrder="4" locked="false" isInGroup="93">
+              <groupChildrenDescriptors>
+                <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="91" h="25" measuredW="89" measuredH="25" zOrder="0" locked="false" isInGroup="92">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Diff1%20Shares%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="85" y="0" w="73" h="25" measuredW="59" measuredH="25" zOrder="1" locked="false" isInGroup="92">
+                  <controlProperties>
+                    <text>100%2C654</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Button" x="804" y="467" w="-1" h="-1" measuredW="55" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Canvas" x="44" y="280" w="646" h="260" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::SubTitle" x="57" y="292" w="-1" h="-1" measuredW="445" measuredH="40" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20Eclipse%20Mining%20Consortium</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Paragraph" x="61" y="339" w="601" h="140" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>We%20are%20a%20collective%20Bitcoin%20mining%20pool%20designed%20to%20provide%20the%20maximum%20return%20on%20your%20mining%20investment.%20We%20strive%20to%20offer%20the%20most%20reliable%20mining%20pool%20available.%20We%20also%20offer%20the%20best%20features%20of%20every%20other%20mining%20site%20out%20there%20in%20order%20to%20provide%20you%20with%20a%20complete%20solution%20to%20your%20pooled%20mining%20equipment.</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Link" x="789" y="297" w="-1" h="-1" measuredW="170" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>or%20register%20a%20new%20account</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Canvas" x="44" y="556" w="941" h="231" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::SubTitle" x="57" y="574" w="-1" h="-1" measuredW="273" measuredH="40" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mine%20the%20way%20you%20want</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::SubTitle" x="57" y="614" w="-1" h="-1" measuredW="203" measuredH="29" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Double%20Geometric%20Scoring</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::SubTitle" x="517" y="614" w="-1" h="-1" measuredW="115" measuredH="29" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Pay%20Per%20Share</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Paragraph" x="57" y="643" w="384" h="98" measuredW="200" measuredH="140" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>An%20explanation%20about%20the%20DGS%20system%20and%20how%20it%20is%20cheat%20proof%20with%20no%20fee.</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Paragraph" x="517" y="643" w="384" h="98" measuredW="200" measuredH="140" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>An%20explanation%20about%20the%20PPS%20system%20and%20how%20it%20is%20cheat%20proof%20with%20a%20percentage%20fee.%20The%20fee%20is%20built%20into%20the%20PPS%20and%20is%20currently%200.000016584381901118001298228374%20per%20share.</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::SubTitle" x="62" y="429" w="-1" h="-1" measuredW="239" measuredH="29" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>We%27re%20ready%20for%20ASIC%20mining%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Paragraph" x="64" y="467" w="598" h="58" measuredW="200" measuredH="140" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::CallOut" x="636" y="99" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::CallOut" x="698" y="273" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Link" x="804" y="504" w="-1" h="-1" measuredW="140" measuredH="25" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>I%20forgot%20my%20password%21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

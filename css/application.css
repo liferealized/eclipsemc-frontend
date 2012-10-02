@@ -1,0 +1,109 @@
+/*******************************************
+	GLOBAL
+*********/
+body {
+	background: whiteSmoke;
+}
+
+
+/*******************************************
+	BOOTSTRAP OVERRIDES
+*********/
+.well-white {
+	background: #fff;
+}
+
+
+/*******************************************
+	TOP INFORMATIONAL BAR & LOGO
+*********/
+#info-bar {
+	}
+	
+	#info-bar .navbar-inner {
+		-webkit-border-radius: 0px;
+		-moz-border-radius: 0px;
+		border-radius: 0px;
+	}
+	
+	#info-bar .brand {
+		background: url(/img/emclogo.png) no-repeat 0 0;
+		display: block;
+		float: left;
+		font-size: 0;
+		height: 0;
+		line-height: 0;
+		margin-left: 20px;
+		padding: 120px 0 0 0;
+		width: 237px;
+	}
+	
+	#info-bar .stats {
+		background: #333;
+		border: 1px solid #000;
+		color: #fff;
+		float: right;
+		margin: 18px 20px 0 -10px;
+		padding: 10px 0 10px 10px;
+		
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		
+		-webkit-box-shadow: 0 1px 4px #000;
+ 		-moz-box-shadow: 0 1px 4px #000;
+		box-shadow: 0 1px 4px #000;
+		}
+		
+		#info-bar .stats h5 {
+			margin: 0;
+		}
+		
+		#info-bar .stats label, #info-bar .stats p {
+			font-size: 12px;
+			margin: 0;
+			margin-right: 10px;
+		}
+		
+		#info-bar .stats label {
+			color: #ccc;
+			}
+			
+			#info-bar .stats label:after {
+				content: " :";
+			}
+		
+		#info-bar .stats p {
+			font-weight: bold;
+		}
+
+
+/*******************************************
+	NAVIGATION
+*********/
+#navigation {
+	margin-top: 141px;
+	}
+	
+	#navigation .navbar-inner {
+		background: -webkit-linear-gradient(top, #BF0000, #AA0000);
+	}
+	
+	#navigation .nav > li > a {
+		color: #fff;
+		text-shadow: none;
+	}
+	
+	#navigation .nav > .active > a,
+	#navigation .nav > .active > a:hover,
+	#navigation .nav > .active > a:focus {
+	  color: #fff;
+	  text-decoration: none;
+	  background-color: #d80000;
+	  -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+		 -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+			  box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+	}
+
+
+

@@ -1,0 +1,237 @@
+<mockup version="1.0" skin="sketch" measuredW="1313" measuredH="935" mockupW="1284" mockupH="910">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="19" y="15" w="999" h="910" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Account%20Workers%0Ahttp%3A//eclipsemc.com/account/workers</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="1031" y="19" w="272" h="903" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Paragraph" x="1046" y="33" w="241" h="874" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%20The%20worker%20link%20should%20go%20to%20a%20page%20to%20edit%20the%20worker.%0A%20%0A2.%20The%20revenue%20column%20should%20be%20linked%20to%20the%20graph%20of%20the%20workers%20income.%0A%20%0A3.%20Putting%20the%20add%20worker%20form%20here%20to%20remove%20clicks%20to%20adding%20workers.</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::List" x="44" y="269" w="147" h="209" measuredW="100" measuredH="147" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0AOverview%0ASettings%0AWorkers%0ATransaction%20History%0ANotifications%0ASecurity</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Canvas" x="209" y="268" w="774" h="587" measuredW="100" measuredH="70" zOrder="4" locked="true" isInGroup="-1"/>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::SubTitle" x="224" y="277" w="-1" h="-1" measuredW="166" measuredH="40" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Your%20Workers</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::DataGrid" x="224" y="317" w="732" h="90" measuredW="653" measuredH="88" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Worker%2CSpeed%2CType%2CRound%2CAll-Time%2CAvg.%20Diff%2CActivity%2CRevenue%20/%20Day%0A%5Bgigavps_001%5D%2C54.23%20Gh/s%2CDGM%2C643%2C263114%2C40.305%2C9s%2C%5B17.29%20BTC%20/%20%24215%5D%0ATotals</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::SubTitle" x="224" y="437" w="-1" h="-1" measuredW="172" measuredH="40" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20a%20Worker</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::TextInput" x="316" y="478" w="168" h="-1" measuredW="79" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Label" x="228" y="481" w="-1" h="-1" measuredW="57" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>gigavps_</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Label" x="228" y="521" w="-1" h="-1" measuredW="67" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Label" x="228" y="561" w="-1" h="-1" measuredW="42" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::TextInput" x="316" y="518" w="168" h="-1" measuredW="79" measuredH="29" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::ComboBox" x="316" y="560" w="-1" h="-1" measuredW="62" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DGM</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Button" x="314" y="602" w="-1" h="-1" measuredW="103" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20Worker</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="__group__" x="23" y="100" w="-1" h="-1" measuredW="989" measuredH="109" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="199" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="104" w="989" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="211"/>
+        <control controlID="200" controlTypeID="com.balsamiq.mockups::SubTitle" x="21" y="29" w="130" h="-1" measuredW="130" measuredH="40" zOrder="1" locked="false" isInGroup="211">
+          <controlProperties>
+            <text>Eclipse%20MC</text>
+          </controlProperties>
+        </control>
+        <control controlID="201" controlTypeID="__group__" x="624" y="0" w="343" h="95" measuredW="343" measuredH="95" zOrder="2" locked="false" isInGroup="211">
+          <groupChildrenDescriptors>
+            <control controlID="59" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="343" h="95" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="88">
+              <controlProperties>
+                <text>Server%20Stats</text>
+              </controlProperties>
+            </control>
+            <control controlID="69" controlTypeID="__group__" x="13" y="20" w="138" h="25" measuredW="138" measuredH="25" zOrder="1" locked="false" isInGroup="88">
+              <groupChildrenDescriptors>
+                <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="73" h="25" measuredW="73" measuredH="25" zOrder="0" locked="false" isInGroup="69">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Pool%20Speed%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="73" y="0" w="65" h="25" measuredW="65" measuredH="25" zOrder="1" locked="false" isInGroup="69">
+                  <controlProperties>
+                    <bold>true</bold>
+                    <text>1.85Th/s</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="70" controlTypeID="__group__" x="13" y="53" w="136" h="25" measuredW="136" measuredH="25" zOrder="2" locked="false" isInGroup="88">
+              <groupChildrenDescriptors>
+                <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="94" h="25" measuredW="94" measuredH="25" zOrder="0" locked="false" isInGroup="70">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Active%20Miners%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="93" y="0" w="43" h="25" measuredW="43" measuredH="25" zOrder="1" locked="false" isInGroup="70">
+                  <controlProperties>
+                    <text>1%2C612</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="72" controlTypeID="__group__" x="161" y="21" w="169" h="25" measuredW="169" measuredH="25" zOrder="3" locked="false" isInGroup="88">
+              <groupChildrenDescriptors>
+                <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="101" h="25" measuredW="101" measuredH="25" zOrder="0" locked="false" isInGroup="72">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Round%20Duration%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="102" y="0" w="67" h="25" measuredW="67" measuredH="25" zOrder="1" locked="false" isInGroup="72">
+                  <controlProperties>
+                    <text>1hr%2038min</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="74" controlTypeID="__group__" x="161" y="51" w="162" h="25" measuredW="162" measuredH="25" zOrder="4" locked="false" isInGroup="88">
+              <groupChildrenDescriptors>
+                <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="91" h="25" measuredW="91" measuredH="25" zOrder="0" locked="false" isInGroup="74">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Round%20Shares%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="73" controlTypeID="com.balsamiq.mockups::Label" x="89" y="0" w="73" h="25" measuredW="73" measuredH="25" zOrder="1" locked="false" isInGroup="74">
+                  <controlProperties>
+                    <text>1%2C234%2C567</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="210" controlTypeID="__group__" x="255" y="0" w="-1" h="-1" measuredW="352" measuredH="95" zOrder="3" locked="false" isInGroup="211">
+          <groupChildrenDescriptors>
+            <control controlID="203" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="352" h="95" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="210">
+              <controlProperties>
+                <text>Welcome%20back%20gigavps%21</text>
+              </controlProperties>
+            </control>
+            <control controlID="204" controlTypeID="__group__" x="8" y="53" w="165" h="25" measuredW="165" measuredH="25" zOrder="1" locked="false" isInGroup="210">
+              <groupChildrenDescriptors>
+                <control controlID="82" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="94" h="25" measuredW="93" measuredH="25" zOrder="0" locked="false" isInGroup="89">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>24hr%20Earnings%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="89" y="0" w="76" h="25" measuredW="75" measuredH="25" zOrder="1" locked="false" isInGroup="89">
+                  <controlProperties>
+                    <text>12.45%20BTC</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="205" controlTypeID="__group__" x="8" y="20" w="148" h="25" measuredW="148" measuredH="25" zOrder="2" locked="false" isInGroup="210">
+              <groupChildrenDescriptors>
+                <control controlID="80" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="80" h="25" measuredW="77" measuredH="25" zOrder="0" locked="false" isInGroup="90">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Est%20Reward%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="73" y="0" w="75" h="25" measuredW="68" measuredH="25" zOrder="1" locked="false" isInGroup="90">
+                  <controlProperties>
+                    <bold>true</bold>
+                    <text>1.12%20BTC</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="207" controlTypeID="__group__" x="176" y="51" w="158" h="25" measuredW="158" measuredH="25" zOrder="3" locked="false" isInGroup="210">
+              <groupChildrenDescriptors>
+                <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="91" h="25" measuredW="89" measuredH="25" zOrder="0" locked="false" isInGroup="92">
+                  <controlProperties>
+                    <bold>false</bold>
+                    <text>Diff1%20Shares%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="85" y="0" w="73" h="25" measuredW="59" measuredH="25" zOrder="1" locked="false" isInGroup="92">
+                  <controlProperties>
+                    <text>100%2C654</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="208" controlTypeID="com.balsamiq.mockups::Label" x="176" y="21" w="101" h="25" measuredW="73" measuredH="25" zOrder="4" locked="false" isInGroup="210">
+              <controlProperties>
+                <bold>false</bold>
+                <text>Hash%20Rate%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="209" controlTypeID="com.balsamiq.mockups::Label" x="250" y="21" w="67" h="25" measuredW="55" measuredH="25" zOrder="5" locked="false" isInGroup="210">
+              <controlProperties>
+                <text>53%20Gh/s</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::MenuBar" x="44" y="225" w="946" h="29" measuredW="493" measuredH="29" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20Account%2C%20Statistics%2C%20Top%20Miners%2C%20Forum%2C%20API%2C%20Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::CallOut" x="206" y="332" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::CallOut" x="768" y="325" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::CallOut" x="399" y="435" w="-1" h="-1" measuredW="37" measuredH="40" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

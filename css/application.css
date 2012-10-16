@@ -9,7 +9,9 @@ body {
 	background: #fff;
 	}
 	
-	body > .container {
+	body > .container,
+	body > .container-fluid {
+		min-width: 960px;
 		padding-top: 141px;
 	}
 
@@ -21,19 +23,87 @@ body {
 	background: #fff;
 }
 
+.well-dark {
+	background: #333;
+	border-color: #000;
+}
+
 .last {
 	margin-bottom: 0 !important;
+}
+
+.small {
+	font-size: 11px;
+}
+
+.quite {
+	color:#bbb;
+}
+
+.no-wrap {
+	white-space: nowrap;
 }
 
 .text-right {
 	text-align: right;
 }
 
+.nav-list {
+	padding-left: 0;
+	padding-right: 0;
+	}
+	
+	.nav-list > li > a {
+		padding: 3px 10px;
+	}
+	
+.label-luck {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.form-horizontal .control-label {
+	width: 110px;
+}
+
+.form-horizontal .controls {
+	margin-left: 130px;
+}
+
+
+/*******************************************
+	Definition Lists
+*********/
+dl {}
+
+	dl dt {
+		background: #fff;
+		display: block;
+		float: left;
+		line-height: 30px;
+		padding-right: 10px;
+		width: auto;
+	}
+	
+	dl dd {
+		background: url(../img/dl-dots.gif);
+		line-height: 30px;
+		text-align: right;
+		}
+		
+		dl dd span {
+			background: #fff;
+			line-height: 30px;
+			padding-left: 10px;
+		}
+
 
 /*******************************************
 	TOP INFORMATIONAL BAR & LOGO
 *********/
 #info-bar {
+	height: 121px;
+	overflow: hidden;
 	}
 	
 	#info-bar .navbar-inner {
@@ -112,6 +182,17 @@ body {
 		color: #fff;
 		text-shadow: none;
 	}
+
+	#navigation .nav li.dropdown > .dropdown-toggle .caret {
+		border-top-color: #fff;
+		border-bottom-color: #fff;
+	}
+	
+	#navigation .nav li.dropdown.open > .dropdown-toggle,
+	#navigation .nav li.dropdown.active > .dropdown-toggle,
+	#navigation .nav li.dropdown.open.active > .dropdown-toggle {
+		background: #d80000;
+	}
 	
 	#navigation .nav > .active > a,
 	#navigation .nav > .active > a:hover,
@@ -122,6 +203,12 @@ body {
 	  -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
 		 -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
 			  box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+	}
+	
+	#navigation .dropdown-menu li > a:hover,
+	#navigation .dropdown-menu li > a:focus,
+	#navigation .dropdown-submenu:hover > a {
+		background: #d80000;
 	}
 		
 
@@ -141,8 +228,17 @@ body {
 	
 	.home #login-form input[type=text],
 	.home #login-form input[type=password] {
-		width: 240px;
+		width: 94%;
 	}
+	
+	.home .asic-ready {
+		min-height:130px;
+		background: whiteSmoke url(../img/asic-ready.png) no-repeat 90% 20px;
+		}
+		
+		.home .asic-ready * {
+			padding-right:200px;
+		}
 
 
 /*******************************************

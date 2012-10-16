@@ -4,7 +4,7 @@
 	
 	<body class="home">
 		
-		<div class="container">
+		<div class="container-fluid">
 		
 			<!-- top informational bar -->
 			<!-- #include file="includes/_header.html" -->
@@ -12,13 +12,13 @@
 			<!-- main navigation bar -->
 			<!-- #include file="includes/_navigation.html" -->
 			
-			<div class="row">
+			<div class="row-fluid">
 				<div class="span12">
 					<h1>Welcome to the Eclipse Mining Consortium</h1>
 				</div>
 			</div>
 			
-			<div class="row">
+			<div class="row-fluid">
 				<div class="span6">
 					<p>
 						We are a collective Bitcoin mining pool designed to provide the maximum return on your mining investment. 
@@ -27,13 +27,13 @@
 					</p>
 				</div>
 				<div class="span6">
-					<div class="well" style="height:140px; background: whiteSmoke url(img/asic-ready.png) no-repeat 0 20px;">
+					<div class="well asic-ready">
 						<h4>We are ASIC mining ready!</h4>
 						<p>
-							Eclipse is ready for the ASIC<br />
-							mining revolution. With bitcoin's<br />
-							new getBlockTemplate (GBT) call<br />
-							and the BFGminer, you can mine with<br />
+							Eclipse is ready for the ASIC
+							mining revolution. With bitcoin's
+							new getBlockTemplate (GBT) call
+							and the BFGminer, you can mine with
 							an unlimited amount of mining power today!
 						</p>
 					</div>
@@ -41,7 +41,7 @@
 			</div>
 			
 			
-			<div class="row">
+			<div class="row-fluid">
 			
 				<div class="span4">
 					<!-- secondary navigation bar -->

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- #include file="includes/_head.html" -->
+	
+	<body class="home">
+		
+		<div class="container-fluid">
+		
+			<!-- top informational bar -->
+			<!-- #include file="includes/_header.html" -->
+			
+			<!-- main navigation bar -->
+			<!-- #include file="includes/_navigation.html" -->
+			
+			<div class="row-fluid">
+				<div class="span10 offset2">
+					<h1>Account Overview</h1>
+				</div>
+			</div>
+			
+			<div class="row-fluid">
+			
+				<!-- main navigation bar -->
+				<!-- #include file="includes/_account-sub-navigation.html" -->
+				
+				<div class="span10">
+					
+					<div class="well well-dark">
+						<div id="chart-container">
+						
+						</div>
+					</div>
+					
+					<div class="row-fluid">
+			
+				<div class="span6">
+					<div class="well well-white">
+						<h3>Bitcoin Summary</h3>
+						
+						<dl class="dotted-list">
+							<dt>Cashout Amount:</dt>
+							<dd><span><a href="#" class="btn btn-success">Cash Out 12.39533911 BTC Now</a></span></dd>
+							<dt>Confirmed:</dt>
+							<dd><span>0.00000000</span></dd>
+							<dt>Unconfirmed:</dt>
+							<dd><span>12.29059000</span></dd>
+							<dt>24 hour Earnings:</dt>
+							<dd><span>0.00000000</span></dd>
+							<dt>7 day Earnings:</dt>
+							<dd><span>0.00000000</span></dd>
+							<dt>30 day Earnings:</dt>
+							<dd><span>0.00000000</span></dd>
+						</dl>
+						
+						<dl class="dotted-list">
+							<dt>Solved Blocks:</dt>
+							<dd><span>0</span></dd>
+							<dt>Total Donations:</dt>
+							<dd><span>0.00000000</span></dd>
+							<dt>Total Paid Out:</dt>
+							<dd><span>12.29059000</span></dd>
+						</dl>
+					</div>
+				</div>
+			
+				<div class="span6">
+					<div class="well well-white">
+						<h3>Namecoin Summary</h3>
+						
+						<dl class="dotted-list">
+							<dt>Auto-convert to BTC:</dt>
+							<dd><span>Yes</span></dd>
+							<dt>Confirmed:</dt>
+							<dd><span>0.00000000</span></dd>
+							<dt>Unconfirmed:</dt>
+							<dd><span>12.29059000</span></dd>
+							<dt>24 hour Earnings:</dt>
+							<dd><span>0.00000000</span></dd>
+							<dt>7 day Earnings:</dt>
+							<dd><span>0.00000000</span></dd>
+							<dt>30 day Earnings:</dt>
+							<dd><span>0.00000000</span></dd>
+						</dl>
+						
+						<dl class="dotted-list">
+							<dt>Solved Blocks:</dt>
+							<dd><span>0</span></dd>
+							<dt>Total Donations:</dt>
+							<dd><span>0.00000000</span></dd>
+							<dt>Total Paid Out:</dt>
+							<dd><span>12.29059000</span></dd>
+						</dl>
+					</div>
+				</div>
+					
+					
+					</div>
+				
+					
+				</div>
+			</div>
+			
+			<div class="row-fluid">
+			
+			</div>
+		</div>
+		
+		<!-- footer -->
+		<!-- #include file="includes/_footer.html" -->
+		
+	</body>
+</html>
